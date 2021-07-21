@@ -1,0 +1,37 @@
+#container{
+    background-color: lightcyan;
+    padding: 20px;
+    border-top: 3px solid black;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+h5{
+    text-align: center;
+    text-decoration: none;
+}
+
+#row1, #row2, #row3{
+    height: 200px;
+    display: flex;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#row1{
+    background-color: palevioletred;
+    justify-content: space-between;
+}
+
+#row2{
+    background-color: turquoise;
+    justify-content: space-evenly;
+}
+
+#row3{
+    background-color: blueviolet;
+    justify-content: space-between;
+}
