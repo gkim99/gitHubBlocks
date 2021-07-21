@@ -1,4 +1,6 @@
 #container{
+    width: 800px;
+    margin: 0px auto;
     background-color: lightcyan;
     padding: 20px;
     border-top: 3px solid black;
